@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Quote-Generator-React/static/css/main.6f711c3a.css",
+    "main.js": "/Quote-Generator-React/static/js/main.73c8e8be.js",
+    "static/js/787.297bc9a9.chunk.js": "/Quote-Generator-React/static/js/787.297bc9a9.chunk.js",
+    "static/media/davide-cantelli-K14g9mphPdI-unsplash.jpg": "/Quote-Generator-React/static/media/davide-cantelli-K14g9mphPdI-unsplash.142c498b36a3c34a0a8c.jpg",
+    "static/media/logo.svg": "/Quote-Generator-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Quote-Generator-React/index.html",
+    "main.6f711c3a.css.map": "/Quote-Generator-React/static/css/main.6f711c3a.css.map",
+    "main.73c8e8be.js.map": "/Quote-Generator-React/static/js/main.73c8e8be.js.map",
+    "787.297bc9a9.chunk.js.map": "/Quote-Generator-React/static/js/787.297bc9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f711c3a.css",
+    "static/js/main.73c8e8be.js"
+  ]
+}
